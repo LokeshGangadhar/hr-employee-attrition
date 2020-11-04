@@ -7,3 +7,11 @@ Details about the project , what did you do? how did you do?
 ![HR Analytics](https://github.com/LokeshGangadhar/hr-employee-attrition/blob/main/hr-analytics-10.jpg?raw=true)
 
 To check out my notebook please click [here](https://github.com/LokeshGangadhar/hr-employee-attrition/blob/main/HR_Analytics.ipynb)
+
+ 1. This is the first point. 
+ 2. This is the second point.
+
+|Col1| Col2 |
+|--|--|
+| Lokesh | Atharv |
+
